@@ -1,1 +1,1 @@
-This is a practice for introduction to software engineering monday (5/12/2025) lab session. 
+This is a practice for introduction to software engineering monday lab session. 
